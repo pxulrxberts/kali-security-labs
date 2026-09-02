@@ -1,7 +1,11 @@
-# Kali System Basics Lab
+# Kali Security Labs
 
-- User: kali
-- Hostname: kali
-- Environment: VirtualBox NAT
-- Connectivity: 4 packets received, 0% packet loss
-- Purpose: Practice Linux system and networking commands
+Hands-on Linux and defensive cybersecurity labs completed in Kali Linux.
+
+## Labs
+
+- [Lab 01 – System Basics](labs/01-system-basics/README.md)
+
+## Ethics
+
+These exercises are performed only in authorized lab environments and on systems I own.
